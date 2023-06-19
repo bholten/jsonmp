@@ -1,0 +1,4 @@
+(test
+ (name jsonmp)
+ (libraries alcotest jsonmp)
+ (deps (glob_files *.json)))

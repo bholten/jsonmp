@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/jsonmp/META"
+  "_build/install/default/lib/jsonmp/dune-package"
+  "_build/install/default/lib/jsonmp/opam"
+]
+bin: [
+  "_build/install/default/bin/jsonmp"
+]
